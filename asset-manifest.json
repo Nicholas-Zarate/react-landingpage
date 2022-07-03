@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-landingpage/static/css/main.b2cf7390.css",
-    "main.js": "/react-landingpage/static/js/main.bfb772be.js",
+    "main.js": "/react-landingpage/static/js/main.012a1755.js",
     "static/js/787.c4c64645.chunk.js": "/react-landingpage/static/js/787.c4c64645.chunk.js",
     "static/media/Demoscreen4.png": "/react-landingpage/static/media/Demoscreen4.f8558104d66fc1903353.png",
     "static/media/front-facing.png": "/react-landingpage/static/media/front-facing.d5c7058ad62c67ed31f5.png",
@@ -9,11 +9,11 @@
     "static/media/api-ex.png": "/react-landingpage/static/media/api-ex.75f10e0e4ffea3746b14.png",
     "index.html": "/react-landingpage/index.html",
     "main.b2cf7390.css.map": "/react-landingpage/static/css/main.b2cf7390.css.map",
-    "main.bfb772be.js.map": "/react-landingpage/static/js/main.bfb772be.js.map",
+    "main.012a1755.js.map": "/react-landingpage/static/js/main.012a1755.js.map",
     "787.c4c64645.chunk.js.map": "/react-landingpage/static/js/787.c4c64645.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cf7390.css",
-    "static/js/main.bfb772be.js"
+    "static/js/main.012a1755.js"
   ]
 }
