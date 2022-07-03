@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-landingpage/static/css/main.9df3c29b.css",
-    "main.js": "/react-landingpage/static/js/main.dee5c724.js",
+    "main.css": "/react-landingpage/static/css/main.ee4bc9cd.css",
+    "main.js": "/react-landingpage/static/js/main.a343ea2b.js",
     "static/js/787.c4c64645.chunk.js": "/react-landingpage/static/js/787.c4c64645.chunk.js",
     "static/media/Demoscreen4.png": "/react-landingpage/static/media/Demoscreen4.f8558104d66fc1903353.png",
     "static/media/front-facing.png": "/react-landingpage/static/media/front-facing.d5c7058ad62c67ed31f5.png",
@@ -12,12 +12,12 @@
     "static/media/ntura-logo-title.png": "/react-landingpage/static/media/ntura-logo-title.2e2df88ad767657daa51.png",
     "static/media/ticker_icon.png": "/react-landingpage/static/media/ticker_icon.ee4450534a230501b7c1.png",
     "index.html": "/react-landingpage/index.html",
-    "main.9df3c29b.css.map": "/react-landingpage/static/css/main.9df3c29b.css.map",
-    "main.dee5c724.js.map": "/react-landingpage/static/js/main.dee5c724.js.map",
+    "main.ee4bc9cd.css.map": "/react-landingpage/static/css/main.ee4bc9cd.css.map",
+    "main.a343ea2b.js.map": "/react-landingpage/static/js/main.a343ea2b.js.map",
     "787.c4c64645.chunk.js.map": "/react-landingpage/static/js/787.c4c64645.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9df3c29b.css",
-    "static/js/main.dee5c724.js"
+    "static/css/main.ee4bc9cd.css",
+    "static/js/main.a343ea2b.js"
   ]
 }
