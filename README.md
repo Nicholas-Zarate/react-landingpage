@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fully Responsive Landing Page for any Product Beta Launch
+## Express, NodeJS, React, Firebase 
+Includes Waitlist Form integrated with Firebase
 
 ## Available Scripts
 
